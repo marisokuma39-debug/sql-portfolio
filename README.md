@@ -1,10 +1,10 @@
-# SQL Portfolio — Healthcare Analytics Journey
+# SQL Portfolio (My Healthcare Analytics Journey)
 
 ## About
 I'm learning SQL with the goal of becoming a Healthcare Data Analyst.
 This repository tracks my progress from beginner to job-ready.
 
-## Tools
+## Tools i used 
 - MySQL + MySQL Workbench
 - Dataset: E-Commerce (practice) → Hospital Database (portfolio)
 
@@ -24,7 +24,7 @@ This repository tracks my progress from beginner to job-ready.
 - [ ] Day 13 — Interview Challenge Day
 - [ ] Day 14 — Healthcare Capstone Project
 
-## Goal
-Healthcare Data Analyst role — analyzing patient data,
+## My Goal at the end of my learning journey
+Healthcare Data Analyst role: analyzing patient data,
 hospital operations, and clinical outcomes using SQL,
 Excel, and Power BI.
