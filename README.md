@@ -12,7 +12,7 @@ This repository tracks my progress from beginner to job-ready.
 - [x] Day 1 — Database setup & fundamentals
 - [x] Day 2 — SELECT queries
 - [x] Day 3 — WHERE filtering
-- [ ] Day 4 — Sorting & Limiting
+- [x] Day 4 — Sorting & Limiting
 - [ ] Day 5 — Aggregate Functions & GROUP BY
 - [ ] Day 6 — JOINs
 - [ ] Day 7 — Week 1 Project
