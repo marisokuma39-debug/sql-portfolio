@@ -14,7 +14,7 @@ This repository tracks my progress from beginner to job-ready.
 - [x] Day 3 — WHERE filtering
 - [x] Day 4 — Sorting & Limiting
 - [x] Day 5 — Aggregate Functions & GROUP BY
-- [ ] Day 6 — JOINs
+- [x] Day 6 — JOINs
 - [ ] Day 7 — Week 1 Project
 - [ ] Day 8 — String & Date Functions
 - [ ] Day 9 — Subqueries
