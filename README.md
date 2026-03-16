@@ -11,7 +11,7 @@ This repository tracks my progress from beginner to job-ready.
 ## Progress
 - [x] Day 1 — Database setup & fundamentals
 - [x] Day 2 — SELECT queries
-- [ ] Day 3 — WHERE filtering
+- [x] Day 3 — WHERE filtering
 - [ ] Day 4 — Sorting & Limiting
 - [ ] Day 5 — Aggregate Functions & GROUP BY
 - [ ] Day 6 — JOINs
