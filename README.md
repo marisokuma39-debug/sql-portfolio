@@ -16,7 +16,7 @@ This repository tracks my progress from beginner to job-ready.
 - [x] Day 5 — Aggregate Functions & GROUP BY
 - [x] Day 6 — JOINs
 - [x] Day 7 — Week 1 Project
-- [ ] Day 8 — String & Date Functions
+- [x] Day 8 — String & Date Functions
 - [ ] Day 9 — Subqueries
 - [ ] Day 10 — Window Functions
 - [ ] Day 11 — CTEs & CASE WHEN
