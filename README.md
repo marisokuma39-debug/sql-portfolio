@@ -17,7 +17,7 @@ This repository tracks my progress from beginner to job-ready.
 - [x] Day 6 — JOINs
 - [x] Day 7 — Week 1 Project
 - [x] Day 8 — String & Date Functions
-- [ ] Day 9 — Subqueries
+- [x] Day 9 — Subqueries
 - [ ] Day 10 — Window Functions
 - [ ] Day 11 — CTEs & CASE WHEN
 - [ ] Day 12 — Indexes, Views & Transactions
