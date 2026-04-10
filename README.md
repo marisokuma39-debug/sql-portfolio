@@ -21,7 +21,7 @@ This repository tracks my progress from beginner to job-ready.
 - [x] Day 10 — Window Functions
 - [x] Day 11 — CTEs & CASE WHEN
 - [x] Day 12 — Indexes, Views & Transactions
-- [ ] Day 13 — Interview Challenge Day
+- [x] Day 13 — Interview Challenge Day
 - [ ] Day 14 — Healthcare Capstone Project
 
 ## My Goal at the end of my learning journey
